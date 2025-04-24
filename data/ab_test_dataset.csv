@@ -1,0 +1,366 @@
+customer_id,is_high_risk,group,received_discount_offer,discount_amount,churned,tenure,monthly_charges,contract_type
+1001,True,A,False,0.0,False,46,74.91,Month-to-month
+1002,False,N/A,False,0.0,True,32,73.81,Month-to-month
+1003,False,N/A,False,0.0,False,54,91.57,One year
+1004,True,B,True,6.54,True,20,65.39,Month-to-month
+1005,True,B,True,9.08,False,33,90.82,Month-to-month
+1006,True,A,False,0.0,True,40,98.4,One year
+1007,True,B,True,5.44,False,32,54.42,Month-to-month
+1008,False,N/A,False,0.0,False,2,89.59,Month-to-month
+1009,False,N/A,False,0.0,False,33,79.5,Month-to-month
+1010,False,N/A,False,0.0,True,30,74.0,Month-to-month
+1011,True,A,False,0.0,False,33,71.03,Month-to-month
+1012,False,N/A,False,0.0,False,26,89.23,Two year
+1013,False,N/A,False,0.0,False,22,81.97,Month-to-month
+1014,True,A,False,0.0,False,66,90.25,Month-to-month
+1015,True,A,False,0.0,True,38,95.16,One year
+1016,True,B,True,8.09,False,46,80.86,Month-to-month
+1017,True,A,False,0.0,False,15,99.02,Month-to-month
+1018,True,A,False,0.0,False,44,80.4,Month-to-month
+1019,True,A,False,0.0,True,49,81.83,Two year
+1020,True,B,True,7.77,False,61,77.74,Month-to-month
+1021,False,N/A,False,0.0,False,67,54.55,Month-to-month
+1022,True,A,False,0.0,True,6,86.32,Month-to-month
+1023,True,B,True,7.74,False,9,77.37,Month-to-month
+1024,True,B,True,7.26,False,6,72.55,Month-to-month
+1025,True,B,True,9.55,True,32,95.52,Month-to-month
+1026,False,N/A,False,0.0,False,41,64.9,One year
+1027,True,B,True,7.62,True,8,76.18,Month-to-month
+1028,True,A,False,0.0,False,50,84.88,Month-to-month
+1029,True,A,False,0.0,False,62,89.82,One year
+1030,True,A,False,0.0,False,62,72.97,Two year
+1031,False,N/A,False,0.0,False,7,92.1,Month-to-month
+1032,True,B,True,8.85,False,4,88.45,Month-to-month
+1033,True,A,False,0.0,False,6,53.31,Month-to-month
+1034,False,N/A,False,0.0,False,58,52.29,Two year
+1035,False,N/A,False,0.0,False,22,81.04,Two year
+1036,False,N/A,False,0.0,False,26,67.37,Month-to-month
+1037,True,A,False,0.0,True,3,60.46,One year
+1038,True,B,True,7.9,False,41,78.98,Month-to-month
+1039,False,N/A,False,0.0,False,60,67.08,Month-to-month
+1040,True,A,False,0.0,False,14,76.86,Month-to-month
+1041,True,A,False,0.0,False,12,73.01,One year
+1042,True,A,False,0.0,True,12,79.24,Month-to-month
+1043,True,A,False,0.0,False,13,70.02,One year
+1044,False,N/A,False,0.0,True,25,84.88,One year
+1045,True,B,True,5.9,False,45,59.0,One year
+1046,False,N/A,False,0.0,False,19,84.83,Month-to-month
+1047,True,A,False,0.0,True,55,70.58,Month-to-month
+1048,True,B,True,9.37,False,45,93.72,Month-to-month
+1049,True,B,True,7.58,False,8,75.76,Month-to-month
+1050,True,A,False,0.0,True,53,98.66,Month-to-month
+1051,False,N/A,False,0.0,False,55,80.1,Two year
+1052,False,N/A,False,0.0,True,32,61.19,Month-to-month
+1053,False,N/A,False,0.0,False,51,91.09,Month-to-month
+1054,False,N/A,False,0.0,True,44,67.25,Month-to-month
+1055,True,B,True,6.74,False,70,67.38,Month-to-month
+1056,False,N/A,False,0.0,False,18,51.59,Month-to-month
+1057,True,A,False,0.0,True,22,77.44,Month-to-month
+1058,True,B,True,7.67,False,37,76.72,Two year
+1059,True,B,True,6.78,True,56,67.8,Month-to-month
+1060,True,A,False,0.0,False,59,94.71,Two year
+1061,True,B,True,5.64,False,3,56.44,One year
+1062,True,B,True,6.65,False,28,66.5,Month-to-month
+1063,False,N/A,False,0.0,False,35,66.08,Two year
+1064,True,B,True,5.46,False,61,54.61,Month-to-month
+1065,True,A,False,0.0,True,54,74.06,One year
+1066,True,A,False,0.0,True,63,84.39,Month-to-month
+1067,True,A,False,0.0,True,7,75.58,One year
+1068,False,N/A,False,0.0,False,49,57.85,One year
+1069,True,A,False,0.0,True,31,68.86,One year
+1070,False,N/A,False,0.0,False,58,50.13,One year
+1071,False,N/A,False,0.0,False,61,93.42,Month-to-month
+1072,True,B,True,5.42,False,24,54.23,Month-to-month
+1073,True,A,False,0.0,False,20,79.86,Month-to-month
+1074,False,N/A,False,0.0,True,37,99.31,Month-to-month
+1075,False,N/A,False,0.0,False,4,76.83,Month-to-month
+1076,False,N/A,False,0.0,False,20,96.2,Month-to-month
+1077,False,N/A,False,0.0,False,60,61.81,Two year
+1078,True,A,False,0.0,False,24,88.0,Month-to-month
+1079,True,B,True,7.66,False,50,76.56,One year
+1080,True,A,False,0.0,True,49,86.03,Month-to-month
+1081,False,N/A,False,0.0,False,51,53.12,One year
+1082,False,N/A,False,0.0,False,36,57.39,Two year
+1083,True,A,False,0.0,False,66,56.66,Month-to-month
+1084,True,B,True,8.44,True,34,84.36,Month-to-month
+1085,True,B,True,9.22,True,36,92.22,One year
+1086,True,A,False,0.0,True,6,87.48,Month-to-month
+1087,False,N/A,False,0.0,False,39,51.52,Month-to-month
+1088,False,N/A,False,0.0,False,42,93.36,Month-to-month
+1089,False,N/A,False,0.0,False,58,67.71,Month-to-month
+1090,True,A,False,0.0,True,12,69.86,Month-to-month
+1091,True,A,False,0.0,True,3,55.24,Month-to-month
+1092,False,N/A,False,0.0,False,18,86.87,Month-to-month
+1093,False,N/A,False,0.0,True,40,59.11,Month-to-month
+1094,True,A,False,0.0,True,21,78.2,Two year
+1095,False,N/A,False,0.0,False,15,92.04,Month-to-month
+1096,True,B,True,5.45,True,26,54.46,Two year
+1097,True,A,False,0.0,True,8,76.77,Month-to-month
+1098,True,B,True,6.17,False,42,61.66,Month-to-month
+1099,True,A,False,0.0,True,44,67.15,Month-to-month
+1100,True,B,True,7.37,False,14,73.7,Month-to-month
+1101,True,A,False,0.0,True,2,67.76,Month-to-month
+1102,False,N/A,False,0.0,False,37,82.44,Month-to-month
+1103,True,A,False,0.0,False,69,73.98,Month-to-month
+1104,True,B,True,7.92,True,38,79.21,Month-to-month
+1105,False,N/A,False,0.0,False,41,86.84,Month-to-month
+1106,True,B,True,7.79,False,62,77.89,Month-to-month
+1107,True,A,False,0.0,False,60,79.33,Month-to-month
+1108,False,N/A,False,0.0,False,14,78.22,One year
+1109,True,B,True,6.89,False,2,68.94,Month-to-month
+1110,True,A,False,0.0,False,70,66.87,Month-to-month
+1111,True,A,False,0.0,False,17,94.98,Two year
+1112,True,B,True,8.04,False,28,80.38,Month-to-month
+1113,False,N/A,False,0.0,True,66,62.22,Month-to-month
+1114,False,N/A,False,0.0,True,35,74.91,Two year
+1115,False,N/A,False,0.0,False,5,66.52,Month-to-month
+1116,False,N/A,False,0.0,False,65,96.68,Month-to-month
+1117,False,N/A,False,0.0,False,40,50.38,Month-to-month
+1118,True,B,True,6.13,False,56,61.27,Month-to-month
+1119,False,N/A,False,0.0,False,36,68.27,Month-to-month
+1120,True,B,True,7.44,False,45,74.39,Month-to-month
+1121,False,N/A,False,0.0,False,23,92.54,Month-to-month
+1122,False,N/A,False,0.0,False,47,54.39,Month-to-month
+1123,True,A,False,0.0,True,31,90.29,Two year
+1124,True,A,False,0.0,False,11,52.78,One year
+1125,True,A,False,0.0,False,10,92.12,Month-to-month
+1126,True,A,False,0.0,False,67,52.58,Month-to-month
+1127,False,N/A,False,0.0,False,14,50.91,Month-to-month
+1128,False,N/A,False,0.0,True,10,84.85,Month-to-month
+1129,True,B,True,9.99,False,1,99.86,Month-to-month
+1130,True,A,False,0.0,True,5,94.83,Month-to-month
+1131,True,B,True,7.88,False,20,78.8,One year
+1132,True,A,False,0.0,False,8,95.87,Month-to-month
+1133,True,B,True,5.03,False,43,50.27,Month-to-month
+1134,True,B,True,9.88,True,1,98.75,Month-to-month
+1135,False,N/A,False,0.0,False,57,74.54,Month-to-month
+1136,True,A,False,0.0,False,64,86.14,One year
+1137,True,A,False,0.0,True,28,91.04,One year
+1138,False,N/A,False,0.0,False,37,85.92,One year
+1139,True,A,False,0.0,False,47,76.75,Month-to-month
+1140,False,N/A,False,0.0,False,37,73.83,Month-to-month
+1141,False,N/A,False,0.0,True,49,91.93,Month-to-month
+1142,True,B,True,6.02,False,44,60.25,Month-to-month
+1143,True,B,True,9.84,False,56,98.4,Month-to-month
+1144,True,A,False,0.0,False,28,85.55,One year
+1145,True,B,True,6.0,False,6,59.98,Month-to-month
+1146,True,A,False,0.0,False,61,86.81,Month-to-month
+1147,False,N/A,False,0.0,False,20,76.49,Month-to-month
+1148,True,B,True,8.54,False,2,85.36,Month-to-month
+1149,True,A,False,0.0,False,37,88.39,Month-to-month
+1150,True,A,False,0.0,False,20,54.36,Two year
+1151,False,N/A,False,0.0,False,26,75.31,One year
+1152,True,B,True,9.66,False,29,96.6,Two year
+1153,True,A,False,0.0,False,1,66.03,Month-to-month
+1154,True,B,True,7.97,False,35,79.69,Month-to-month
+1155,False,N/A,False,0.0,False,70,68.46,Month-to-month
+1156,True,A,False,0.0,False,59,72.71,Month-to-month
+1157,False,N/A,False,0.0,False,69,77.43,One year
+1158,False,N/A,False,0.0,True,33,77.45,Month-to-month
+1159,True,B,True,6.01,False,51,60.09,Month-to-month
+1160,False,N/A,False,0.0,False,12,84.23,Month-to-month
+1161,True,A,False,0.0,False,20,54.39,Month-to-month
+1162,False,N/A,False,0.0,True,53,56.94,One year
+1163,False,N/A,False,0.0,False,43,50.14,Month-to-month
+1164,True,A,False,0.0,False,50,55.83,Month-to-month
+1165,True,B,True,7.37,False,29,73.66,Month-to-month
+1166,False,N/A,False,0.0,False,57,80.31,Month-to-month
+1167,True,B,True,8.97,True,39,89.71,One year
+1168,True,B,True,5.53,False,56,55.33,One year
+1169,True,A,False,0.0,False,43,92.54,Two year
+1170,True,A,False,0.0,False,50,87.3,One year
+1171,False,N/A,False,0.0,True,23,70.43,Month-to-month
+1172,True,B,True,9.67,True,44,96.65,Month-to-month
+1173,True,B,True,9.96,False,38,99.55,Month-to-month
+1174,True,A,False,0.0,True,23,60.25,Month-to-month
+1175,False,N/A,False,0.0,True,45,68.96,One year
+1176,True,B,True,9.63,False,52,96.32,Month-to-month
+1177,False,N/A,False,0.0,False,50,86.08,Two year
+1178,True,A,False,0.0,False,8,52.4,Month-to-month
+1179,False,N/A,False,0.0,True,1,89.08,Month-to-month
+1180,True,B,True,9.14,False,8,91.4,Month-to-month
+1181,True,A,False,0.0,True,29,87.53,One year
+1182,True,A,False,0.0,False,5,89.98,Month-to-month
+1183,False,N/A,False,0.0,False,47,91.26,Month-to-month
+1184,False,N/A,False,0.0,False,34,59.32,Month-to-month
+1185,True,B,True,6.18,False,65,61.78,Month-to-month
+1186,False,N/A,False,0.0,True,55,81.69,Month-to-month
+1187,False,N/A,False,0.0,True,43,95.39,One year
+1188,True,B,True,6.58,True,30,65.81,Month-to-month
+1189,True,B,True,7.94,False,17,79.42,Month-to-month
+1190,True,B,True,8.42,False,26,84.15,Month-to-month
+1191,True,A,False,0.0,False,8,72.6,Month-to-month
+1192,False,N/A,False,0.0,False,47,85.69,One year
+1193,False,N/A,False,0.0,False,46,94.98,Month-to-month
+1194,False,N/A,False,0.0,False,68,81.21,Month-to-month
+1195,True,A,False,0.0,False,33,76.99,Month-to-month
+1196,True,A,False,0.0,False,1,71.94,Two year
+1197,False,N/A,False,0.0,True,19,78.87,One year
+1198,False,N/A,False,0.0,True,31,67.77,Month-to-month
+1199,False,N/A,False,0.0,False,14,69.57,Month-to-month
+1200,False,N/A,False,0.0,False,53,76.59,Month-to-month
+1201,False,N/A,False,0.0,True,48,53.33,One year
+1202,True,B,True,6.14,False,69,61.45,Month-to-month
+1203,True,A,False,0.0,True,62,77.14,Month-to-month
+1204,False,N/A,False,0.0,True,66,71.58,Month-to-month
+1205,False,N/A,False,0.0,False,64,66.64,Month-to-month
+1206,True,A,False,0.0,False,70,86.53,Month-to-month
+1207,True,B,True,8.47,False,63,84.69,One year
+1208,False,N/A,False,0.0,False,33,58.34,Month-to-month
+1209,True,B,True,9.39,False,41,93.93,Month-to-month
+1210,True,B,True,7.48,True,48,74.77,Month-to-month
+1211,True,B,True,8.71,False,13,87.07,Two year
+1212,False,N/A,False,0.0,False,31,78.66,Month-to-month
+1213,False,N/A,False,0.0,True,68,99.88,One year
+1214,True,A,False,0.0,True,4,87.62,Month-to-month
+1215,False,N/A,False,0.0,False,19,85.35,Month-to-month
+1216,True,A,False,0.0,False,70,88.93,Month-to-month
+1217,True,A,False,0.0,False,13,57.16,Month-to-month
+1218,False,N/A,False,0.0,False,23,60.23,Month-to-month
+1219,False,N/A,False,0.0,False,1,85.7,One year
+1220,False,N/A,False,0.0,False,54,74.7,Month-to-month
+1221,False,N/A,False,0.0,True,71,87.73,Month-to-month
+1222,True,B,True,5.52,False,15,55.15,Month-to-month
+1223,True,A,False,0.0,True,65,76.82,Two year
+1224,True,B,True,6.89,True,71,68.94,One year
+1225,True,A,False,0.0,False,15,72.85,Month-to-month
+1226,True,A,False,0.0,True,21,80.2,Two year
+1227,False,N/A,False,0.0,False,19,75.11,Month-to-month
+1228,True,A,False,0.0,True,60,76.99,Month-to-month
+1229,False,N/A,False,0.0,False,33,74.32,One year
+1230,False,N/A,False,0.0,False,49,70.45,One year
+1231,False,N/A,False,0.0,False,35,88.59,Month-to-month
+1232,True,A,False,0.0,True,44,50.61,Month-to-month
+1233,True,B,True,7.99,False,11,79.92,Month-to-month
+1234,True,A,False,0.0,False,66,78.28,Two year
+1235,True,A,False,0.0,True,46,85.81,Month-to-month
+1236,False,N/A,False,0.0,False,9,79.95,Month-to-month
+1237,True,A,False,0.0,False,3,91.34,Month-to-month
+1238,True,B,True,9.8,False,26,97.95,Month-to-month
+1239,False,N/A,False,0.0,False,48,67.13,Month-to-month
+1240,True,A,False,0.0,False,66,61.37,Two year
+1241,False,N/A,False,0.0,True,70,71.18,Month-to-month
+1242,False,N/A,False,0.0,False,28,64.4,Month-to-month
+1243,False,N/A,False,0.0,False,26,80.75,Month-to-month
+1244,True,A,False,0.0,False,25,95.59,One year
+1245,True,B,True,5.7,True,12,56.96,Month-to-month
+1246,False,N/A,False,0.0,True,5,55.04,Month-to-month
+1247,True,B,True,6.28,False,48,62.8,One year
+1248,False,N/A,False,0.0,True,37,86.3,One year
+1249,False,N/A,False,0.0,False,44,79.65,One year
+1250,False,N/A,False,0.0,True,15,55.11,Two year
+1251,True,B,True,9.59,False,43,95.94,Month-to-month
+1252,True,B,True,8.95,True,48,89.5,One year
+1253,False,N/A,False,0.0,False,70,51.15,Month-to-month
+1254,True,A,False,0.0,False,46,82.57,One year
+1255,True,B,True,8.86,False,43,88.56,One year
+1256,True,B,True,6.87,False,21,68.72,One year
+1257,False,N/A,False,0.0,False,23,53.45,Month-to-month
+1258,False,N/A,False,0.0,False,47,53.87,Month-to-month
+1259,True,B,True,5.52,False,15,55.21,Month-to-month
+1260,True,B,True,9.2,False,25,92.02,Two year
+1261,False,N/A,False,0.0,False,36,95.53,Two year
+1262,False,N/A,False,0.0,False,51,56.14,Month-to-month
+1263,True,B,True,6.18,False,15,61.8,Month-to-month
+1264,True,B,True,5.83,True,68,58.28,Month-to-month
+1265,False,N/A,False,0.0,False,21,59.32,One year
+1266,False,N/A,False,0.0,False,13,91.87,One year
+1267,False,N/A,False,0.0,False,19,66.61,Month-to-month
+1268,False,N/A,False,0.0,False,34,65.57,Month-to-month
+1269,True,B,True,6.14,True,68,61.37,One year
+1270,True,A,False,0.0,False,52,80.39,One year
+1271,False,N/A,False,0.0,False,27,68.97,Month-to-month
+1272,False,N/A,False,0.0,True,29,87.21,Month-to-month
+1273,False,N/A,False,0.0,True,28,60.28,Month-to-month
+1274,False,N/A,False,0.0,False,35,89.39,Month-to-month
+1275,True,A,False,0.0,True,8,80.19,Month-to-month
+1276,True,A,False,0.0,True,16,55.71,Month-to-month
+1277,False,N/A,False,0.0,False,36,70.73,One year
+1278,False,N/A,False,0.0,True,30,93.18,Month-to-month
+1279,False,N/A,False,0.0,True,18,96.15,One year
+1280,False,N/A,False,0.0,False,2,73.29,Month-to-month
+1281,False,N/A,False,0.0,False,49,74.04,Month-to-month
+1282,True,A,False,0.0,False,4,95.92,Month-to-month
+1283,True,B,True,7.94,True,7,79.35,Month-to-month
+1284,True,A,False,0.0,True,39,51.64,One year
+1285,True,A,False,0.0,True,13,95.64,Two year
+1286,True,B,True,6.24,False,31,62.41,Month-to-month
+1287,True,B,True,7.89,False,71,78.88,Month-to-month
+1288,True,A,False,0.0,False,63,58.28,One year
+1289,True,B,True,5.17,False,56,51.69,Month-to-month
+1290,True,A,False,0.0,False,42,65.57,Month-to-month
+1291,True,A,False,0.0,True,61,89.02,One year
+1292,True,A,False,0.0,False,42,63.88,Month-to-month
+1293,False,N/A,False,0.0,True,56,61.0,Month-to-month
+1294,True,B,True,6.06,False,36,60.63,Month-to-month
+1295,True,B,True,7.58,False,68,75.76,One year
+1296,True,B,True,9.88,False,7,98.78,Month-to-month
+1297,False,N/A,False,0.0,False,54,72.95,Month-to-month
+1298,True,A,False,0.0,True,1,77.87,One year
+1299,False,N/A,False,0.0,False,44,93.03,Month-to-month
+1300,True,A,False,0.0,True,45,76.75,One year
+1301,True,A,False,0.0,False,47,59.22,Month-to-month
+1302,True,B,True,6.5,True,13,64.98,Two year
+1303,True,A,False,0.0,False,22,65.5,Month-to-month
+1304,False,N/A,False,0.0,True,21,69.87,Month-to-month
+1305,False,N/A,False,0.0,True,9,71.34,Month-to-month
+1306,False,N/A,False,0.0,False,26,89.99,Month-to-month
+1307,True,B,True,6.75,False,9,67.47,One year
+1308,True,A,False,0.0,True,15,73.41,Two year
+1309,False,N/A,False,0.0,True,10,81.25,Month-to-month
+1310,True,A,False,0.0,False,42,68.89,Month-to-month
+1311,True,A,False,0.0,True,24,91.83,One year
+1312,True,B,True,7.94,True,49,79.37,One year
+1313,True,A,False,0.0,True,26,64.7,Month-to-month
+1314,False,N/A,False,0.0,True,37,85.7,Month-to-month
+1315,False,N/A,False,0.0,True,68,76.38,Month-to-month
+1316,False,N/A,False,0.0,False,50,76.72,Month-to-month
+1317,True,A,False,0.0,False,24,74.05,Month-to-month
+1318,True,A,False,0.0,False,19,74.85,Month-to-month
+1319,True,A,False,0.0,True,60,88.27,Month-to-month
+1320,True,A,False,0.0,True,39,55.15,One year
+1321,True,B,True,6.67,False,18,66.72,Month-to-month
+1322,False,N/A,False,0.0,True,19,53.78,Month-to-month
+1323,False,N/A,False,0.0,True,36,87.66,Month-to-month
+1324,True,A,False,0.0,False,55,63.62,Month-to-month
+1325,False,N/A,False,0.0,False,69,94.87,Month-to-month
+1326,False,N/A,False,0.0,False,47,76.33,Month-to-month
+1327,True,B,True,9.0,False,49,90.04,Month-to-month
+1328,False,N/A,False,0.0,False,33,98.95,Month-to-month
+1329,True,B,True,9.2,False,21,91.99,Month-to-month
+1330,True,B,True,9.33,False,22,93.35,Month-to-month
+1331,True,A,False,0.0,False,48,70.4,One year
+1332,False,N/A,False,0.0,False,37,77.59,Month-to-month
+1333,True,A,False,0.0,False,15,62.69,One year
+1334,True,A,False,0.0,True,35,59.81,Month-to-month
+1335,True,B,True,7.53,False,71,75.28,Month-to-month
+1336,True,A,False,0.0,True,32,79.75,Month-to-month
+1337,False,N/A,False,0.0,True,11,66.96,Month-to-month
+1338,False,N/A,False,0.0,False,10,78.47,One year
+1339,True,A,False,0.0,False,57,94.37,One year
+1340,True,A,False,0.0,False,25,77.84,One year
+1341,True,A,False,0.0,False,2,86.04,Month-to-month
+1342,True,B,True,9.03,False,64,90.27,Month-to-month
+1343,True,B,True,9.94,False,35,99.44,Month-to-month
+1344,True,A,False,0.0,False,7,80.16,Month-to-month
+1345,True,A,False,0.0,False,18,90.34,Month-to-month
+1346,False,N/A,False,0.0,False,67,98.13,Month-to-month
+1347,False,N/A,False,0.0,False,42,97.22,Month-to-month
+1348,True,A,False,0.0,False,39,57.05,Month-to-month
+1349,True,B,True,7.03,False,41,70.32,One year
+1350,False,N/A,False,0.0,False,24,66.2,Two year
+1351,True,A,False,0.0,True,60,54.35,Two year
+1352,False,N/A,False,0.0,False,46,81.66,Month-to-month
+1353,False,N/A,False,0.0,False,19,86.8,Month-to-month
+1354,True,B,True,9.24,False,68,92.41,Month-to-month
+1355,True,B,True,5.61,False,42,56.14,One year
+1356,False,N/A,False,0.0,True,32,93.82,Month-to-month
+1357,True,A,False,0.0,True,39,82.15,Month-to-month
+1358,True,B,True,8.52,False,36,85.2,One year
+1359,False,N/A,False,0.0,True,36,95.53,Month-to-month
+1360,True,B,True,8.12,True,3,81.24,Month-to-month
+1361,True,B,True,6.68,True,8,66.79,Month-to-month
+1362,False,N/A,False,0.0,True,70,91.26,Month-to-month
+1363,True,B,True,6.82,False,41,68.15,Month-to-month
+1364,True,A,False,0.0,False,68,51.71,Month-to-month
+1365,False,N/A,False,0.0,False,13,91.53,Month-to-month
