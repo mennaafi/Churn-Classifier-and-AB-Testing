@@ -1,6 +1,6 @@
 <div align="center">  
 
-## Churn-Classifier-and-AB-Testing
+## Churn Classifier and AB Testing
 
  </div>
 
